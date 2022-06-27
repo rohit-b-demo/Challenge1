@@ -1,0 +1,9 @@
+variable "resource_group_name" {}
+variable "resource_group_location" {}
+variable "vnetcidr" {}
+variable "websubnetcidr" {}
+variable "appsubnetcidr" {}
+variable "dbsubnetcidr" {}
+variable "websubnetname" {}
+variable "appsubnetname" {}
+variable "dbsubnetname" {}
